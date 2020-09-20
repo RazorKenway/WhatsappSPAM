@@ -1,4 +1,5 @@
 # Whatsapp SPAM
+# Zip Pasword :- 1234
 
 
 pkg install git
