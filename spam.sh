@@ -34,15 +34,15 @@ function req(){
     sleep 3
 }
 function copy(){
-    cd $HOME
-    cd WhatsappSPAM
-    cd source
-    cd ..
+    
+
+    
+    
     rm -rf temp
     mkdir temp
-    cd temp
-    cd ..
     cd source
+
+
 }
 read -p'Chose Spam Type :-' userinput1;
 if [ "${userinput1:-}" = "1" ]
