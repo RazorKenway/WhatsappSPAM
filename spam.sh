@@ -28,6 +28,8 @@ echo -e "\e[94m                   [6]  Spam Item 06               |\e[0m";
 echo -e "\e[93m                   [7]  Poweful Spam 01            |\e[0m";
 echo
 function req(){
+    cd ..
+    cd temp
     echo -e "\e[1;32m           DONE !.  You Can Copy Now         \e[0m";
     sleep 3
 }
@@ -39,6 +41,8 @@ function copy(){
     rm -rf temp
     mkdir temp
     cd temp
+    cd ..
+    cd source
 }
 read -p'Chose Spam Type :-' userinput1;
 if [ "${userinput1:-}" = "1" ]
