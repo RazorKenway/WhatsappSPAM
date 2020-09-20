@@ -1,4 +1,4 @@
-#EvilEye-Banner
+# Whatsapp SPAM
 
 
 pkg install git
@@ -15,7 +15,7 @@ cd WhatsappSPAM
 
 bash spam.sh
 
-Welcome To SL Android Youtube Channel
+# Welcome To SL Android Youtube Channel
 
                                     💢 Disclaimer 💢
 
