@@ -3,15 +3,17 @@
 
 pkg install git
 
+
+
 pkg install curl
 
 pkg install ruby
 
-git clone https://github.com/RazorKenway/EvilEye-Banner.git
+git clone https://github.com/RazorKenway/WhatsappSPAM.git
 
-cd EvilEye-Banner 
+cd WhatsappSPAM 
 
-bash slandroid.sh
+bash spam.sh
 
 Welcome To SL Android Youtube Channel
 
