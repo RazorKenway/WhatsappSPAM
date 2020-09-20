@@ -1,5 +1,5 @@
 # Whatsapp SPAM
-# Zip Pasword :- 1234
+
 
 
 pkg install git
@@ -43,4 +43,4 @@ Thanks for watching.
 
 
 
-Thak you very mutch
+# Thak you very mutch
