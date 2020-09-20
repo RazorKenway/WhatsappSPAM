@@ -1,4 +1,4 @@
-git pull
+bash read.sh
 pkg install figlet
 pkg install lolcat
 clear
